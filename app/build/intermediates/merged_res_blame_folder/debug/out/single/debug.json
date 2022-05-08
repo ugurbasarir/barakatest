@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/drawable_img_placeholder.png.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/drawable/img_placeholder.png"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/layout_activity_feed.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/activity_feed.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/layout_item_article_mini.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_article_mini.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/layout_item_article.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_article.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/layout_item_article_list.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_article_list.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/layout_item_stock_list.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_stock_list.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/drawable_bg_logo_bordered_red.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/drawable/bg_logo_bordered_red.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/layout_item_stock.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_stock.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]

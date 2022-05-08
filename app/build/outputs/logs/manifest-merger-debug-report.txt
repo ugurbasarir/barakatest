@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/dd5bc3b5ef4c9ed2db16e9a746a08a09/transformed/jetified-viewbinding-4.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0dd6be0ef6991f556b4b5a826373da68/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/3368a7c126a9b4d2a3c5a9496a6777d5/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/8660255423310c5d94a63b3637594edb/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0fbf3c3b4109c58ee4128c8010c41e03/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/c19e7e5ae2e14c722e68fb86e72c5188/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/064d66013e44e307ba1532e95a591a43/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/574d80c314ee38113b2a5933aae8d587/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7dbddc1739f5cf81c9ed2436ac7c77ab/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/9fdad27aff6ca690f8be320a40c3a354/transformed/jetified-rxandroid-2.1.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/fa83cf85274fc21398fc70c93df7c34a/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.41] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/8cc700f20dc31daa8f1c553ea4bfb0d6/transformed/jetified-hilt-android-2.41/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7035f2c9d353ee2513909d2550e05195/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/5ac710564a575d37f3faf8ebf2e676b4/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/cc3da676dccd90b33d03f4042c72941f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d1de9985bdd7ba01aa7f59dd39341928/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/a7525c95b2ba11ac5b8e417a1377188c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/f4b4577122591697176b038d8a1f4fee/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/4cd35cb4ca647c7ab0d77d2012ed77d8/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7a7f38e65cff679769fb88a24bb69310/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0fbd82201a8c304da09ce8e920dd1957/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/c48b7c172ad6ef3127ccfe8ac7060a5e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/2100152aa43ed91480a5f1334d91c714/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/9b3a76900a4ecd42c15a14dc8ba1ce3c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/e4eefdd9ed5f4c6ca8ec1050e82c3fa4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/4d589f67f561478bbd74d2488a36520a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/3882018c4952b666ad26eec6fb2c79f1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d9259dbfa06c9b699eb790d3ff5793d8/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/fbee209087847c28f83fb0dfb0dbe3ab/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/695882a0fb12bac82176455596a25cc5/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/45b6ae75de1feec02c8570607fc37736/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d60865206f7fa35231a4090dc903f6df/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/016bd4f3fa72721f863d2f704c50087b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/f4dbb7d3aa410d67c9a4f36f32b86046/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/ed894488d7e6df77fe38434f02cdf72d/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/5d0e65cfd69819fe0597137733073faf/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/b8f72108b292439e4bf935e446692dd4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.41] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/459c3eb8c185f5be8430400498326b8b/transformed/jetified-dagger-lint-aar-2.41/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/678e54c7098136ea099b493f330604d6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0fbf3c3b4109c58ee4128c8010c41e03/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0fbf3c3b4109c58ee4128c8010c41e03/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/2100152aa43ed91480a5f1334d91c714/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/2100152aa43ed91480a5f1334d91c714/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/45b6ae75de1feec02c8570607fc37736/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/45b6ae75de1feec02c8570607fc37736/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d60865206f7fa35231a4090dc903f6df/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d60865206f7fa35231a4090dc903f6df/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/2100152aa43ed91480a5f1334d91c714/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:14:9-48
+	android:name
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:8:9-60
+activity#com.baraka.barakatest.ui.components.feed.FeedActivity
+ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:17:13-50
+	android:exported
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:16:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/dd5bc3b5ef4c9ed2db16e9a746a08a09/transformed/jetified-viewbinding-4.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.2] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/dd5bc3b5ef4c9ed2db16e9a746a08a09/transformed/jetified-viewbinding-4.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0dd6be0ef6991f556b4b5a826373da68/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0dd6be0ef6991f556b4b5a826373da68/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/3368a7c126a9b4d2a3c5a9496a6777d5/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/3368a7c126a9b4d2a3c5a9496a6777d5/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/8660255423310c5d94a63b3637594edb/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/8660255423310c5d94a63b3637594edb/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0fbf3c3b4109c58ee4128c8010c41e03/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0fbf3c3b4109c58ee4128c8010c41e03/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/c19e7e5ae2e14c722e68fb86e72c5188/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/c19e7e5ae2e14c722e68fb86e72c5188/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/064d66013e44e307ba1532e95a591a43/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/064d66013e44e307ba1532e95a591a43/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/574d80c314ee38113b2a5933aae8d587/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/574d80c314ee38113b2a5933aae8d587/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7dbddc1739f5cf81c9ed2436ac7c77ab/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7dbddc1739f5cf81c9ed2436ac7c77ab/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/9fdad27aff6ca690f8be320a40c3a354/transformed/jetified-rxandroid-2.1.0/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/9fdad27aff6ca690f8be320a40c3a354/transformed/jetified-rxandroid-2.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/fa83cf85274fc21398fc70c93df7c34a/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/fa83cf85274fc21398fc70c93df7c34a/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.41] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/8cc700f20dc31daa8f1c553ea4bfb0d6/transformed/jetified-hilt-android-2.41/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.41] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/8cc700f20dc31daa8f1c553ea4bfb0d6/transformed/jetified-hilt-android-2.41/AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7035f2c9d353ee2513909d2550e05195/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7035f2c9d353ee2513909d2550e05195/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/5ac710564a575d37f3faf8ebf2e676b4/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/5ac710564a575d37f3faf8ebf2e676b4/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/cc3da676dccd90b33d03f4042c72941f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/cc3da676dccd90b33d03f4042c72941f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d1de9985bdd7ba01aa7f59dd39341928/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d1de9985bdd7ba01aa7f59dd39341928/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/a7525c95b2ba11ac5b8e417a1377188c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/a7525c95b2ba11ac5b8e417a1377188c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/f4b4577122591697176b038d8a1f4fee/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/f4b4577122591697176b038d8a1f4fee/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/4cd35cb4ca647c7ab0d77d2012ed77d8/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/4cd35cb4ca647c7ab0d77d2012ed77d8/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7a7f38e65cff679769fb88a24bb69310/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/7a7f38e65cff679769fb88a24bb69310/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0fbd82201a8c304da09ce8e920dd1957/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/0fbd82201a8c304da09ce8e920dd1957/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/c48b7c172ad6ef3127ccfe8ac7060a5e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/c48b7c172ad6ef3127ccfe8ac7060a5e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/2100152aa43ed91480a5f1334d91c714/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/2100152aa43ed91480a5f1334d91c714/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/9b3a76900a4ecd42c15a14dc8ba1ce3c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/9b3a76900a4ecd42c15a14dc8ba1ce3c/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/e4eefdd9ed5f4c6ca8ec1050e82c3fa4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/e4eefdd9ed5f4c6ca8ec1050e82c3fa4/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/4d589f67f561478bbd74d2488a36520a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/4d589f67f561478bbd74d2488a36520a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/3882018c4952b666ad26eec6fb2c79f1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/3882018c4952b666ad26eec6fb2c79f1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d9259dbfa06c9b699eb790d3ff5793d8/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d9259dbfa06c9b699eb790d3ff5793d8/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/fbee209087847c28f83fb0dfb0dbe3ab/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/fbee209087847c28f83fb0dfb0dbe3ab/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/695882a0fb12bac82176455596a25cc5/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/695882a0fb12bac82176455596a25cc5/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/45b6ae75de1feec02c8570607fc37736/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/45b6ae75de1feec02c8570607fc37736/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d60865206f7fa35231a4090dc903f6df/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d60865206f7fa35231a4090dc903f6df/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/016bd4f3fa72721f863d2f704c50087b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/016bd4f3fa72721f863d2f704c50087b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/f4dbb7d3aa410d67c9a4f36f32b86046/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/f4dbb7d3aa410d67c9a4f36f32b86046/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/ed894488d7e6df77fe38434f02cdf72d/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/ed894488d7e6df77fe38434f02cdf72d/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/5d0e65cfd69819fe0597137733073faf/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/5d0e65cfd69819fe0597137733073faf/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/b8f72108b292439e4bf935e446692dd4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/b8f72108b292439e4bf935e446692dd4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.41] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/459c3eb8c185f5be8430400498326b8b/transformed/jetified-dagger-lint-aar-2.41/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.41] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/459c3eb8c185f5be8430400498326b8b/transformed/jetified-dagger-lint-aar-2.41/AndroidManifest.xml:18:3-42
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/678e54c7098136ea099b493f330604d6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/678e54c7098136ea099b493f330604d6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/85e39e658536bd4685f63c4efc0212dd/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d60865206f7fa35231a4090dc903f6df/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/d60865206f7fa35231a4090dc903f6df/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/286d14da22fa02809969d9ee6a8fac19/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/ugur/Desktop/gradle-5.6.4/caches/transforms-3/70ea770f9d3276030fb3d479b5f5d105/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

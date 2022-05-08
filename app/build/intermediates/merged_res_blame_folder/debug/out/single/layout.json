@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_stock_list.xml",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_stock_list.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_article_mini.xml",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_article_mini.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_article_list.xml",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_article_list.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_article.xml",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_article.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_feed.xml",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/activity_feed.xml"
+    },
+    {
+        "merged": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_stock.xml",
+        "source": "/Users/ugur/Code/SampleWebApp/BarakaTest/app/src/main/res/layout/item_stock.xml"
+    }
+]

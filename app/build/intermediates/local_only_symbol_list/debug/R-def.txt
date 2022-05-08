@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable img_placeholder
+id dateView
+id descriptionView
+id imageView
+id mainLay
+id recyclerView
+id refreshView
+id textView
+id titleView
+layout activity_feed
+layout item_article
+layout item_article_list
+layout item_article_mini
+layout item_stock
+layout item_stock_list
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.BarakaTest
